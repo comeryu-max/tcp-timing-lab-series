@@ -1,5 +1,20 @@
 # TCP Timing Lab Series
-A measurement-driven exploration of TCP timing: from serialization delay to packet train, ACK clock, and throughput dynamics — making the invisible visible.
+
+> The network is not about rate — it is about time structure.
+
+A measurement-driven exploration of TCP timing:
+
+from **serialization delay (Δt = L/R)**  
+→ **packet train (continuity)**  
+→ **ACK clock (self-clocking)**  
+→ **throughput dynamics (emergent behavior)**
+
+---
+
+**Make the invisible visible.  
+Measure the abstract.  
+Trust the packet.  
+Respect the time.**
 
 ---
 
